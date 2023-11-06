@@ -7,9 +7,9 @@
 2022.3.2f1 LTS
 
 ## Assets Used
-Free assets of discontinued glitch game https://www.glitchthegame.com/
-\Fx Explosion Pack from unity assets store
-\Font are from https://www.dafont.com/
+Free assets of discontinued glitch game https://www.glitchthegame.com/\
+Fx Explosion Pack from unity assets store\
+Font are from https://www.dafont.com/
 
 ## Concepts Used
 - Loading Scenes based on build index and name
