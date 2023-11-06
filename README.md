@@ -25,5 +25,9 @@ Font are from https://www.dafont.com/
 - Animation States
 - Animation transitions
 - Putting animator and scripts on parent to be able to edit caracte position after animation created
+- Instantiating prefabs from the location of a game object
+- Spawning an object as a child of another object
+- Moving objects via code or with animation
+- Spawn particle effects at position of a game object
 
 **NOTE: REMEMBER TO ADD SCENES TO BUILD SETTINGS IN THIS ORDER "SplashScreen" > "WinScreen" > "LoseScreen" > "OptionsScreen" > "StartScreen" > "Level1" > "Level2" > "Level3" > "Level4" > "Level5"**
