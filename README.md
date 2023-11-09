@@ -44,4 +44,5 @@ Font are from https://www.dafont.com/
 - Working with material assets
 - Applying materials to 3d objects
 
-**NOTE: REMEMBER TO ADD SCENES TO BUILD SETTINGS IN THIS ORDER "SplashScreen" > "WinScreen" > "LoseScreen" > "OptionsScreen" > "StartScreen" > "Level1" > "Level2" > "Level3" > "Level4" > "Level5"**
+## Important Notes
+**ADD SCENES TO BUILD SETTINGS IN THIS ORDER "SplashScreen" > "WinScreen" > "LoseScreen" > "OptionsScreen" > "StartScreen" > "Level1" > "Level2" > "Level3" > "Level4" > "Level5"**
