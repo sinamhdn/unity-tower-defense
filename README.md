@@ -41,5 +41,7 @@ Font are from https://www.dafont.com/
 - Using singleton pattern
 - Using static variables to preserve data between scenes
 - Using a trigger collider to destroy game objects no longer in use
+- Working with material assets
+- Applying materials to 3d objects
 
 **NOTE: REMEMBER TO ADD SCENES TO BUILD SETTINGS IN THIS ORDER "SplashScreen" > "WinScreen" > "LoseScreen" > "OptionsScreen" > "StartScreen" > "Level1" > "Level2" > "Level3" > "Level4" > "Level5"**
