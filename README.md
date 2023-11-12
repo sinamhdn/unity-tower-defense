@@ -13,33 +13,33 @@ Font are from https://www.dafont.com/
 
 ## Concepts Used
 - Loading Scenes based on build index and name
-- Using coroutine
+- Coroutines
 - Using canvas as the game area
 - Calculating safe zone of the game area for mobile
 - Using world space canvas mode
 - Aligning game area sprite units with the world unit of unity
 - Spritesheet animation
-- keyframe based animation
-- Bone based animation
+- keyframe-based animation
+- Bone-based animation
 - Animation Events
 - Animation States
 - Animation transitions
-- Putting animator and scripts on parent to be able to edit caracte position after animation created
+- Putting animator and scripts on parent to be able to edit characters position after animation created
 - Instantiating prefabs from the location of a game object
 - Spawning an object as a child of another object
 - Moving objects via code or with animation
 - Spawn particle effects at position of a game object
 - Converting world space and local space
 - Converting screen point to world point
-- Detect mouse down using a collider
-- Spawn prefabs in random intervals
-- Detect objects based on the script attached to them
-- Use kinematic RigidBody2D
-- Use UI slider
-- Store game settings data in computer using player prefs
-- Play a pesistent music through scenes
-- Using singleton pattern
-- Using static variables to preserve data between scenes
+- Detecting mouse down using a collider
+- Spawning prefabs in random intervals
+- Detecting objects based on the script attached to them
+- Kinematic RigidBody2D
+- UI Slider
+- Storing game settings data in computer using player prefs
+- Playing a pesistent music through scenes
+- Singleton Pattern
+- Static variables to preserve data between scenes
 - Using a trigger collider to destroy game objects no longer in use
 - Working with material assets
 - Applying materials to 3d objects
