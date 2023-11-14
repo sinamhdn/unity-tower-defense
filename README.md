@@ -1,5 +1,5 @@
 # unity-tower-defense
- A PvZ like tower defense game practice project
+A PvZ clone tower defense demo project
 
 ![Image Sequence_001_0000](https://github.com/sinamhdn/unity-tower-defense/assets/34884156/3833ed03-0147-49f6-86e6-a6b31431548f)
 
