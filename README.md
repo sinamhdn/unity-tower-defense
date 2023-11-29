@@ -1,4 +1,4 @@
-# unity-tower-defense
+# Tower Defense
 A PvZ clone tower defense demo project
 
 ![Image Sequence_001_0000](https://github.com/sinamhdn/unity-tower-defense/assets/34884156/3833ed03-0147-49f6-86e6-a6b31431548f)
@@ -6,12 +6,12 @@ A PvZ clone tower defense demo project
 ## Unity Version
 2022.3.2f1 LTS
 
-## Assets Used
+## Assets
 Free assets of discontinued glitch game https://www.glitchthegame.com/ \
 Fx Explosion Pack from unity assets store \
 Font are from https://www.dafont.com/ 
 
-## Concepts Used
+## Concepts
 - Loading Scenes based on build index and name
 - Coroutines
 - Using canvas as the game area
